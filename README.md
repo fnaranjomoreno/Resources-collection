@@ -5,6 +5,11 @@
 - [APIs](#apis)
 
 
+
+
+
+
+
 # Open-Source-Software
 Open Source Collection. My favorite open source software
 
@@ -27,9 +32,19 @@ Open Source Collection. My favorite open source software
 - https://nocodb.com/  Nocode solution
 
 
+
+
+
+
+
 # Web development Resources
 - https://apexcharts.com/  Modern & Interactive Open-source Charts
 - https://laravel.com/ PHP Framework
+- https://github.com/ziadoz/awesome-php?tab=readme-ov-file#awesome-php-  A curated list of amazingly awesome PHP libraries, resources, and shiny things.
+
+
+
+
 
 # APIs
 
