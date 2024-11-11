@@ -142,7 +142,7 @@ Simple REST API for Live News & Blog Articles. Scalable JSON API delivering worl
 
 ## Other
 
-###onesimpleapi
+### onesimpleapi
 A Toolbox of solutions for no-coders
 - URL: https://onesimpleapi.com/
 - API: https://onesimpleapi.com/docs
