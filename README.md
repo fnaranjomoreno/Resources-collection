@@ -10,25 +10,26 @@ Open Source Collection. My favorite open source software
 
 ## Automation
 
-### N8N
+- https://n8n.io/ 
+- https://nodered.org/
+- https://www.mautic.org/ Marketing Automation Tool for mail automation
 
-### Node-RED
-https://nodered.org/
-
-### Mautic
 
 ## Data Analytics
 
-### Matomo
+- https://matomo.org/ Google Analytics Alternative
+- https://grafana.com/
+- https://superset.apache.org/
+- https://www.metabase.com/
 
 ## Other
+- https://baserow.io/
+- https://nocodb.com/  Nocode solution
 
-### Baserow.io
-https://baserow.io/ 
-###
 
 # Web development Resources
 - https://apexcharts.com/  Modern & Interactive Open-source Charts
+- https://laravel.com/ PHP Framework
 
 # APIs
 
