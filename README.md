@@ -49,17 +49,19 @@ Open Source Collection. My favorite open source software
 # APIs
 
 ## Technology Usage
-### webtechsurvey
-Discover what technologies a website is built on or find out what websites use a particular web technology
-- URL: https://webtechsurvey.com/
-- API: https://webtechsurvey.com/about-api
-- PRICE: https://webtechsurvey.com/pricing
+
 
 ### w3techs
 W3Techs provides information about the usage of various types of technologies on the web.
 - URL: https://w3techs.com/
 - API: https://w3techs.com/apidoc
-- PRICE: 
+- PRICE: https://w3techs.com/apidoc
+
+### webtechsurvey
+Discover what technologies a website is built on or find out what websites use a particular web technology
+- URL: https://webtechsurvey.com/
+- API: https://webtechsurvey.com/about-api
+- PRICE: https://webtechsurvey.com/pricing
 
 ## Domain, hosintg/ips info 
 ### dnslytics
