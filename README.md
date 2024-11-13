@@ -1,12 +1,13 @@
 # Resources collection
 
 - [Open Source Software](#open-source-software)
+- [Ubuntu](#ubuntu)
 - [Web development Resources](#web-development-resources)
 - [APIs](#apis)
 
 
 
-# Open-Source-Software
+# OPEN SOURCE SOFTWARE
 Open Source Collection. My favorite open source software
 
 ## Automation
@@ -29,11 +30,18 @@ Open Source Collection. My favorite open source software
 
 
 
+# UBUNTU
+Ubuntu is the world’s favourite Linux operating system. Run it on your laptop, workstation, server or IoT device, with five years of free security updates.
+- Ubuntu Desktop: https://ubuntu.com/download/desktop
+- Ubuntu Server: https://ubuntu.com/download/server
+- Ubuntu Raspberry Pi: https://ubuntu.com/download/raspberry-pi
+- Ubuntu Core (for IoT). https://ubuntu.com/download/core  
 
 
 
 
-# Web development Resources
+
+# WEB DEVELOPMENT RESOURCES
 - https://apexcharts.com/  Modern & Interactive Open-source Charts
 - https://laravel.com/ PHP Framework
 - https://github.com/ziadoz/awesome-php?tab=readme-ov-file#awesome-php-  A curated list of amazingly awesome PHP libraries, resources, and shiny things.
