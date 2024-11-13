@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 # Open-Source-Software
 Open Source Collection. My favorite open source software
 
@@ -99,12 +95,26 @@ ImmuniWeb Reduces Costs, Simplifies and Accelerates Application Security
 
 ## Media creation
 
+
+### abyssale
+
+- URL: https://www.abyssale.com
+- API: https://developers.abyssale.com
+- PRICE: https://www.abyssale.com/pricing
+
 ### apitemplate
 Generate PDFs and Images from Reusable Templates with Our Powerful API
 PDF only plans – Starting at $19, for generating PDF documents only
-- URL: https://apitemplate.io/
+- URL: https://apitemplate.io
 - API: https://docs.apitemplate.io/reference/api-reference.html
-- PRICE: https://apitemplate.io/pricing/
+- PRICE: https://apitemplate.io/pricing
+
+### bannerbear
+Bannerbear helps you auto-generate social media visuals, ecommerce banners and more with our API and integrations
+- URL: https://www.bannerbear.com
+- API: https://developers.bannerbear.com
+- PRICE: https://www.bannerbear.com/pricing
+
 
 ### creatomate
 Creatomate is the media automation platform for developers and no-code users.
@@ -112,12 +122,30 @@ Creatomate is the media automation platform for developers and no-code users.
 - API: https://creatomate.com/docs/api/introduction
 - PRICE: https://creatomate.com/pricing
 
+### giphy
+GIPHY is the fastest, simplest way to search and share GIFs and stickers across all of your favorite social channels.
+- URL: https://giphy.com/
+- API: https://developers.giphy.com/docs/api
+- PRICE: ---
+  
+
+### placid
+- URL: https://placid.app
+- API: https://placid.app/docs/2.0/introduction
+- PRICE: https://placid.app/pricing
 
 ###h quickchart
 Generate chart images with a simple, open API
 - URL: https://quickchart.io/
 - API: https://quickchart.io/documentation/
 - PRICE: https://quickchart.io/pricing/
+
+
+### renderform
+Design templates to automate repetitive image or PDF creation. Get started in minutes with our template editor and no-code tools.
+- URL: https://renderform.io
+- API: https://renderform.io/docs/api/get-started/
+- PRICE: https://renderform.io/pricing/
 
 ### templated
 Generate images & PDFs from dynamic templates. Automate and scale your content creation. Integrate via API or no-code solutions
