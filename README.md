@@ -1,13 +1,13 @@
 # Resources collection
 
-- [Open Source Software](#open-source-software)
-- [Ubuntu](#ubuntu)
+- [Open Source Web Apps](#open-source-web-apps)
+- [Linux](#linux)
 - [Web development Resources](#web-development-resources)
 - [APIs](#apis)
 
 
 
-# OPEN SOURCE SOFTWARE
+# OPEN SOURCE WEB APPS
 Open Source Collection. My favorite open source software
 
 ## Automation
@@ -28,16 +28,59 @@ Open Source Collection. My favorite open source software
 - https://baserow.io/
 - https://nocodb.com/  Nocode solution
 
+# Artificial intelligence
+- LMSTUDIO https://lmstudio.ai/
+
+# linux
 
 
-# UBUNTU
+## Kali Linux
+Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+- https://www.kali.org/
+- https://www.kali.org/get-kali/#kali-platforms
+
+## Net Hunter
+Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform for Android devices, based on Kali Linux.
+- https://www.kali.org/docs/nethunter/
+- list of devices which NetHunter can be put on: https://nethunter.kali.org/device-kernels.html
+
+  
+## Ubuntu
 Ubuntu is the world’s favourite Linux operating system. Run it on your laptop, workstation, server or IoT device, with five years of free security updates.
 - Ubuntu Desktop: https://ubuntu.com/download/desktop
 - Ubuntu Server: https://ubuntu.com/download/server
 - Ubuntu Raspberry Pi: https://ubuntu.com/download/raspberry-pi
-- Ubuntu Core (for IoT). https://ubuntu.com/download/core  
-
-
+- Ubuntu Core (for IoT). https://ubuntu.com/download/core
+### My favorite Ubuntu software
+- Mouse Input Remapper: https://github.com/sezanzeb/input-remapper 
+- Visual Studio Code
+- VirtualBox https://phoenixnap.com/kb/install-virtualbox-on-ubuntu   
+- System Monitor
+- STACER
+- GParted
+- FileZilla
+- BalenaEtcher
+- FastTracker2
+- LMMS https://lmms.io/download#linux
+- shortWave
+- VLC MediaPlayer
+- Kdenlive (Video Editor)
+- Flameshot
+- kolourpaint
+- Krita
+- Converseen (Batch image processor for Gnome )
+- Peek
+- Blender
+ - Blender Add-ons
+  - import-export STL format
+  - Mesh: 3d-Print  ToolBox
+  - Object: Bool Tool
+  - Import-Export: Web3d X3D/VRML2 format
+  - addMesh: extra objects
+- cake Wallet https://github.com/cake-tech/cake_wallet/releases
+- GNOME EXTENSION MANAGER
+- GNOME Tweaks
+- SCRCPY (This application mirrors Android devices (video and audio) connected via USB or over TCP/IP, and allows to control the device with the keyboard and the mouse of the computer. It does not require any root access. It works on Linux, Windows and macOS.) https://github.com/Genymobile/scrcpy
 
 
 
