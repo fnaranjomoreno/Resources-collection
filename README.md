@@ -1,6 +1,7 @@
 # Resources collection
 
 - [Open Source Web Apps](#open-source-web-apps)
+- [Artificial intelligence](#artificial-intelligence)
 - [Linux](#linux)
 - [Web development Resources](#web-development-resources)
 - [APIs](#apis)
@@ -29,7 +30,55 @@ Open Source Collection. My favorite open source software
 - https://nocodb.com/  Nocode solution
 
 # Artificial intelligence
+- https://huggingface.co/
 - LMSTUDIO https://lmstudio.ai/
+
+## Text generation
+## Text generation Promps and expamples
+- https://github.com/linexjlin/GPTs/tree/main/prompts
+- 
+## Text to image 
+### Text to image prompts and examples
+-https://github.com/Dalabad/stable-diffusion-prompt-templates 
+- https://openart.ai/presets
+- https://lexica.art/
+### Stable Diffusion
+- stable diffusion official models :
+  - https://huggingface.co/stabilityai 
+  - https://huggingface.co/stabilityai/stable-diffusion-2-1/tree/main 
+- Other Models:
+  - https://huggingface.co/Corruptlake/Sci-Fi-Diffusion
+  - https://huggingface.co/nousr/robo-diffusion
+  - https://civitai.com/models/22940/djz-scuffed-robotics
+  - https://civitai.com/models/7371/rev-animated
+  - https://huggingface.co/acheong08/f222/blob/main/f222.ckpt
+  - For Icons: https://publicprompts.art/app-icons-generator-v1-dreambooth-model/
+  - 
+
+- https://github.com/CompVis/stable-diffusion
+- sygil-webui (Web-based UI for Stable Diffusion) https://github.com/Sygil-Dev/sygil-webui
+- ComfyUI (The most powerful and modular diffusion model GUI and backend) https://github.com/comfyanonymous/ComfyUI
+- Invoke (a leading creative engine built to empower professionals and enthusiasts alike. Generate and create stunning visual media using the latest AI-driven technologies) https://invoke-ai.github.io/InvokeAI/
+- EASY DIFFUSION: https://easydiffusion.github.io/ 
+- AUTOMATIC1111 (A web interface for Stable Diffusion, implemented using Gradio library.) https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - Addons/Plugins:
+    - https://github.com/lllyasviel/ControlNet
+    - https://github.com/Mikubill/sd-webui-controlnet
+    - https://app.posemy.art/
+    - https://github.com/GeorgLegato/sd-webui-panorama-viewer
+    - asymmetric tilling
+    - background remover: https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
+    - https://github.com/opparco/stable-diffusion-webui-composable-lora
+    - https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization
+    - https://github.com/opparco/stable-diffusion-webui-two-shot
+    - https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+    - DEFORUM   https://github.com/deforum-art/sd-webui-deforum
+    - https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
+    - https://github.com/zero01101/openOutpaint-webUI-extension
+    - https://github.com/KutsuyaYuki/ABG_extension
+    - https://github.com/Extraltodeus/depthmap2mask
+    - https://github.com/thygate/stable-diffusion-webui-depthmap-script
+
 
 # linux
 
@@ -71,12 +120,12 @@ Ubuntu is the world’s favourite Linux operating system. Run it on your laptop,
 - Converseen (Batch image processor for Gnome )
 - Peek
 - Blender
- - Blender Add-ons
-  - import-export STL format
-  - Mesh: 3d-Print  ToolBox
-  - Object: Bool Tool
-  - Import-Export: Web3d X3D/VRML2 format
-  - addMesh: extra objects
+  - Blender Add-ons
+    - import-export STL format
+    - Mesh: 3d-Print  ToolBox
+    - Object: Bool Tool
+    - Import-Export: Web3d X3D/VRML2 format
+    - addMesh: extra objects
 - cake Wallet https://github.com/cake-tech/cake_wallet/releases
 - GNOME EXTENSION MANAGER
 - GNOME Tweaks
