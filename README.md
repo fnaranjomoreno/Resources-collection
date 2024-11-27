@@ -1,4 +1,4 @@
-# Resources collection
+# Curated resources collection
 
 - [Open Source Web Apps](#open-source-web-apps)
 - [Artificial intelligence](#artificial-intelligence)
