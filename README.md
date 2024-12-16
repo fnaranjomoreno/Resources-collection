@@ -16,6 +16,7 @@ Open Source Collection. My favorite open source software
 - https://n8n.io/ 
 - https://nodered.org/
 - https://www.mautic.org/ Marketing Automation Tool for mail automation
+- https://formbricks.com/  Open source survey platform with Automation
 
 
 ## Data Analytics
