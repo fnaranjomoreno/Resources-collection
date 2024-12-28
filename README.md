@@ -38,7 +38,8 @@ Open Source Collection. My favorite open source software
 # Artificial intelligence
 - https://huggingface.co/
 - LMSTUDIO https://lmstudio.ai/
-- Open WebUi https://github.com/open-webui/open-webui 
+- Open WebUi https://github.com/open-webui/open-webui
+- Page assist https://github.com/n4ze3m/page-assist
 
 ## Text generation
 ## Text generation Promps and expamples
