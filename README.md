@@ -90,6 +90,7 @@ Open Source Collection. My favorite open source software
 
 # linux
 
+- TAILS A portable operating system that protects against surveillance and censorship. https://tails.net/index.en.html
 
 ## Kali Linux
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
