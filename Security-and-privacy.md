@@ -1,5 +1,10 @@
 # Security and privacy tools and resources
 
+## OS
+- Tails OS https://tails.net/
 
-- Tails https://tails.net/
+
+
+## Passwords
+- https://keepassxc.org/
 - 
