@@ -7,4 +7,4 @@
 
 ## Passwords
 - https://keepassxc.org/
-- 
+- https://dehashed.com ! look for stolen and compromissed passwords 
