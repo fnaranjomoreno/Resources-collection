@@ -11,7 +11,8 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
   - https://github.com/Comfy-Org
   - Download ComfyUI from Github: https://github.com/comfyanonymous/ComfyUI
   - Wiki: https://comfyui-wiki.com/en
-  - WorkFlows Collection: https://openart.ai/workflows/home 
+  - WorkFlows Collection: https://openart.ai/workflows/home
+  - Workflows Collection: https://nordy.ai/
   - Examples: https://comfyanonymous.github.io/ComfyUI_examples/
 
 ### ComfyUI Extensions
