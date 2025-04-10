@@ -1,4 +1,4 @@
-#Stable diffusion curated resources list
+# Stable diffusion curated resources list
 
 ## Stability Matrix
 Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click install and update for Stable Diffusion Web UI Packages
