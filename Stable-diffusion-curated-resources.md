@@ -31,5 +31,8 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 ## OneDiffusion
   - https://github.com/lehduong/OneDiffusion
 
+## Websites, Resources and online portals
+  - https://civitai.com/
+  - 
 ## Cloud Tools
   - https://diffusionhub.io/
