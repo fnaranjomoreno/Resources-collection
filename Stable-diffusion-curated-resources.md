@@ -23,7 +23,9 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 ### Related Software
   
 ### Models
-
+### Tutorials
+- https://youtu.be/Zko_s2LO9Wo?si=9krbC5luSiuH8Kth
+- 
 
 
 ## cdNext
