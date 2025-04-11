@@ -42,3 +42,5 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
   - https://www.mimicpc.com/v
   - https://nordy.ai/comfyui/
   - https://openart.ai/home
+  - virtual gpus https://www.runpod.io/
+  - 
