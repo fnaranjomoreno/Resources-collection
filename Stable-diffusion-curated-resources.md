@@ -37,3 +37,5 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
   - 
 ## Cloud Tools
   - https://diffusionhub.io/
+  - https://www.mimicpc.com/v
+  - https://nordy.ai/comfyui/
