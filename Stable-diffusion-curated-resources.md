@@ -39,10 +39,10 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 ## Websites, Resources and online portals
   - https://civitai.com/
   - 
-## Cloud Tools
+## Cloud and hosting
   - https://diffusionhub.io/
   - https://www.mimicpc.com/v
   - https://nordy.ai/comfyui/
   - https://openart.ai/home
-  - virtual gpus https://www.runpod.io/
-  - 
+  - virtual GPUs https://www.runpod.io/
+  - vortual GPUs https://comfy.icu/
