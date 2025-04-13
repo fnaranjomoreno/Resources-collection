@@ -18,7 +18,8 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
     - Examples:https://comfyanonymous.github.io/ComfyUI_examples/
 
 ### ComfyUI Extensions
-  - https://github.com/Comfy-Org/ComfyUI-Manager
+  - ComfyUI's ControlNet Auxiliary Preprocessors https://github.com/Fannovel16/comfyui_controlnet_aux
+  - PNG Metadata https://github.com/romeobuilderotti/ComfyUI-PNG-Metadata
 
 ### Related Software
   
