@@ -20,6 +20,7 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 ### ComfyUI Extensions
   - ComfyUI's ControlNet Auxiliary Preprocessors https://github.com/Fannovel16/comfyui_controlnet_aux
   - PNG Metadata https://github.com/romeobuilderotti/ComfyUI-PNG-Metadata
+  - Mask Editor: https://github.com/rubi-du/ComfyUI-MaskEditor-Extension 
 
 ### Related Software
   
