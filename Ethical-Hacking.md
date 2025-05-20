@@ -5,7 +5,7 @@
 
 
 
-## Toos and Kits
+## Tools and Kits
 - https://github.com/ElitaZ98/Hack-Tools
 -  https://github.com/openbullet/OpenBullet2
 
@@ -15,13 +15,3 @@
 - https://github.com/twelvesec/gasmask
 - https://github.com/ultrasecurity/Storm-Breaker
 - https://github.com/BishopFox/eyeballer
-
-
-
-
-
-
-
-
-
-

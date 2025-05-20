@@ -43,12 +43,11 @@ Open Source Collection. My favorite open source software
 - Page assist https://github.com/n4ze3m/page-assist
 
 ## Text generation
-## Text generation Promps and expamples
+## Text generation Prompts and examples
 - https://github.com/linexjlin/GPTs/tree/main/prompts
-- 
 ## Text to image 
 ### Text to image prompts and examples
--https://github.com/Dalabad/stable-diffusion-prompt-templates 
+- https://github.com/Dalabad/stable-diffusion-prompt-templates 
 - https://openart.ai/presets
 - https://lexica.art/
 ### Stable Diffusion
@@ -62,8 +61,6 @@ Open Source Collection. My favorite open source software
   - https://civitai.com/models/7371/rev-animated
   - https://huggingface.co/acheong08/f222/blob/main/f222.ckpt
   - For Icons: https://publicprompts.art/app-icons-generator-v1-dreambooth-model/
-  - 
-
 - https://github.com/CompVis/stable-diffusion
 - sygil-webui (Web-based UI for Stable Diffusion) https://github.com/Sygil-Dev/sygil-webui
 - ComfyUI (The most powerful and modular diffusion model GUI and backend) https://github.com/comfyanonymous/ComfyUI
@@ -169,7 +166,7 @@ Discover what technologies a website is built on or find out what websites use a
 - API: https://webtechsurvey.com/about-api
 - PRICE: https://webtechsurvey.com/pricing
 
-## Domain, hosintg/ips info 
+## Domain, hosting/ips info 
 ### dnslytics
 Find out everything about a domain name, IP address or provider. Discover relations between them and see historical data. Use it for your digital investigation, fraud prevention or brand protection.
 - URL: https://dnslytics.com/
@@ -177,7 +174,7 @@ Find out everything about a domain name, IP address or provider. Discover relati
 - PRICE: https://search.dnslytics.com/pricing
 
 ### myip
-Honting info, Website and IP Database
+Hosting info, Website and IP Database
 - URL: https://myip.ms/
 - API: https://myip.ms/info/api/API_Dashboard.html
 - PRICE: https://myip.ms/info/premium_services/Premium_Services.html 
@@ -197,7 +194,7 @@ Enterprise-grade domain intelligence to prevent, mitigate, and investigate attac
 - API: https://www.domaintools.com/resources/api-documentation/
 - PRICE: https://www.domaintools.com/pricing/
 
-###immuniweb
+### immuniweb
 ImmuniWeb Reduces Costs, Simplifies and Accelerates Application Security
 - URL: https://www.immuniweb.com/
 - API: https://www.immuniweb.com/websec/api
@@ -244,7 +241,7 @@ GIPHY is the fastest, simplest way to search and share GIFs and stickers across 
 - API: https://placid.app/docs/2.0/introduction
 - PRICE: https://placid.app/pricing
 
-###h quickchart
+### quickchart
 Generate chart images with a simple, open API
 - URL: https://quickchart.io/
 - API: https://quickchart.io/documentation/
@@ -285,12 +282,3 @@ A Toolbox of solutions for no-coders
 - URL: https://onesimpleapi.com/
 - API: https://onesimpleapi.com/docs
 - PRICE: https://onesimpleapi.com/#price
-
-
-
-
-###
-
-- URL: 
-- API: 
-- PRICE: 
