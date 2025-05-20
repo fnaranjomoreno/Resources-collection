@@ -27,7 +27,6 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 ### Models
 ### Tutorials
 - https://youtu.be/Zko_s2LO9Wo?si=9krbC5luSiuH8Kth
-- 
 
 
 ## cdNext
@@ -40,11 +39,10 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion. One click 
 
 ## Websites, Resources and online portals
   - https://civitai.com/
-  - 
 ## Cloud and hosting
   - https://diffusionhub.io/
   - https://www.mimicpc.com/v
   - https://nordy.ai/comfyui/
   - https://openart.ai/home
   - virtual GPUs https://www.runpod.io/
-  - vortual GPUs https://comfy.icu/
+  - virtual GPUs https://comfy.icu/
